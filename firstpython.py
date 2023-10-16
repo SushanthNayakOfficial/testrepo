@@ -1,2 +1,3 @@
 #Disply the output
-print("Hello GitHub")
+print("Hello World")
+print("Welcome to GitHub")
